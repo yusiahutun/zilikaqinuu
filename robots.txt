@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zilikaqinuu.pages.dev/sitemap.xml
